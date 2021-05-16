@@ -1,2 +1,3 @@
 # hungrybites
-Created with CodeSandbox
+
+Food recommendation for all foodies out there in Cochin
